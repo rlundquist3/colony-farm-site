@@ -1,6 +1,6 @@
 /*!
  * Agency v1.0.7 (http://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
@@ -560,9 +560,10 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/map-image.png');
+  background-image: url('../img/hexes_grey.svg');
   background-position: center;
   background-repeat: no-repeat;
+  background-size: 100%;
 }
 section#contact .section-heading {
   color: white;
